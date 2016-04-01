@@ -1,2 +1,6 @@
 # hello-world
-learn how to use the git for code control.
+
+Hi there,
+
+I'm a fresh man on learning linux and git.
+I'm enjoy on it.
